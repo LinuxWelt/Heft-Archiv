@@ -1,8 +1,9 @@
 # 🗂️ Heft-Archiv
 
-Hier finden sich die freien Downloads der Heft-DVDs und Extra-Images aus älteren Ausgaben.
+Hier finden sich die freien Downloads der Heft-DVDs und Extra-Images aus älteren Ausgabender LinuxWelt.
+Diese Liste wird nicht mehr erweitert. Dieses Projekt ist inzwischen eingestellt.
 
-## 🐧LinuxWelt: Heft-DVD und Extra-Images ab 2022
+## 🐧LinuxWelt: Heft-DVD und Extra-Images ab 2022 bis 2026
 
   💽 [LinuxWelt_2024-6-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-6-Extra)  
   💽 [LinuxWelt_2024-6](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-6)  
@@ -40,7 +41,7 @@ Hier finden sich die freien Downloads der Heft-DVDs und Extra-Images aus ältere
   💽 [LinuxWelt_2022-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-1)  
 
 
-## 🐧Sonderhefte: Heft-DVD und Extra-Images ab 2022
+## 🐧Sonderhefte: Heft-DVD und Extra-Images ab 2022 bis 2026
 
   💽 [Sonderheft_XXL_2023-3 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2023-3-Extra)  
   💽 [Sonderheft_XXL_2023-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2023-3)  
