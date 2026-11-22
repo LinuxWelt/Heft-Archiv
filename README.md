@@ -1,7 +1,7 @@
 # 🗂️ Heft-Archiv
 
 Hier finden sich die freien Downloads der Heft-DVDs und Extra-Images aus älteren Ausgabender LinuxWelt.
-Diese Liste wird nicht mehr erweitert, denn diese Veröffentlichungen sind inzwischen auf Github eingestellt und finden sich stattdessen nur noch auf der eigenen Webseite der LinuxWelt.
+Diese Liste wird nicht mehr erweitert, denn diese Veröffentlichungen sind inzwischen auf Github eingestellt und finden sich nun auf der eigenen Webseite der LinuxWelt.
 
 ## 🐧LinuxWelt: Heft-DVD und Extra-Images ab 2022 bis 2026
 
